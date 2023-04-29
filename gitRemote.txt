@@ -1,4 +1,4 @@
-1. Github account
+ 1. Github account
 2. Empty repo
 3. local system
     git config --global user.name "123quadri"
@@ -6,3 +6,5 @@
 4. git push -u origiin master
     4.1 username? -> 123quadri
     4.2 password? ->your token    
+
+    added new 2
